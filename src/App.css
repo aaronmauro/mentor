@@ -1,0 +1,20 @@
+.App {
+  background-image: url("./background_wave.svg");
+  background-size: cover;
+  min-height:70em;
+}
+
+.CardGroup {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.Card {
+  margin:2%;
+  margin-top:5%;
+  width:50em;
+}
+
+.Jumbotron {
+  margin-top:10%;
+}
